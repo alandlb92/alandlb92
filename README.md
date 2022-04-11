@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alandlb92
-- 👀 I’m interested in c++, c# and Gave Development
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c++ game projects
+- 👀 I’m interested in c++, c# and Game Development
 - 📫 How to reach me, send an e-mail to alan.dlucas.bittencourt@gmail.com or contact-me on linkedin https://www.linkedin.com/in/alan-d-lucas-bittencourt-bb63a9121/
 
 <!---
